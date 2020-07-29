@@ -1,5 +1,4 @@
 #pragma once
-#include <time.h>
 #include <pcap.h>
 #include <stdlib.h>
 #include <string.h>
